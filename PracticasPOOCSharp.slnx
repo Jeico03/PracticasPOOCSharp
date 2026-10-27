@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Practica01_Persona/Practica01_Persona.csproj" />
   <Project Path="Practica02_Empleado/Practica02_Empleado.csproj" />
+  <Project Path="Practica03_HerenciaVehiculos/Practica03_HerenciaVehiculos.csproj" />
 </Solution>
