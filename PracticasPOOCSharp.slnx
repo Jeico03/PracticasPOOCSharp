@@ -5,4 +5,5 @@
   <Project Path="Practica04_EncapsulacionAutomovil/Practica04_EncapsulacionAutomovil.csproj" />
   <Project Path="Practica05_InterfacesVehiculos/Practica05_InterfacesVehiculos.csproj" />
   <Project Path="Practica06_SobrecargaConstructoresYMetodos/Practica06_SobrecargaConstructoresYMetodos.csproj" />
+  <Project Path="Practica07_ClasesAbstractasEInterfaces/Practica07_ClasesAbstractasEInterfaces.csproj" />
 </Solution>
