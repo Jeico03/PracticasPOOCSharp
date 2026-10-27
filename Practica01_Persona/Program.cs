@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Persona persona1 = new Persona();
+            persona1.nombre = "Juan";
+            persona1.edad = 30;
+            persona1.MostrarInformacion();
         }
     }
 }
