@@ -3,4 +3,5 @@
   <Project Path="Practica02_Empleado/Practica02_Empleado.csproj" />
   <Project Path="Practica03_HerenciaVehiculos/Practica03_HerenciaVehiculos.csproj" />
   <Project Path="Practica04_EncapsulacionAutomovil/Practica04_EncapsulacionAutomovil.csproj" />
+  <Project Path="Practica05_InterfacesVehiculos/Practica05_InterfacesVehiculos.csproj" />
 </Solution>
