@@ -1,11 +1,17 @@
 <Solution>
-  <Project Path="Practica01_Persona/Practica01_Persona.csproj" />
-  <Project Path="Practica02_Empleado/Practica02_Empleado.csproj" />
-  <Project Path="Practica03_HerenciaVehiculos/Practica03_HerenciaVehiculos.csproj" />
-  <Project Path="Practica04_EncapsulacionAutomovil/Practica04_EncapsulacionAutomovil.csproj" />
-  <Project Path="Practica05_InterfacesVehiculos/Practica05_InterfacesVehiculos.csproj" />
-  <Project Path="Practica06_SobrecargaConstructoresYMetodos/Practica06_SobrecargaConstructoresYMetodos.csproj" />
-  <Project Path="Practica07_ClasesAbstractasEInterfaces/Practica07_ClasesAbstractasEInterfaces.csproj" />
-  <Project Path="Practica08_TiposGenericosLista/Practica08_TiposGenericosLista.csproj" Id="6c912e19-3d11-4342-8119-d7b17bc9af07" />
-  <Project Path="Practica09_ManejoExcepciones/Practica09_ManejoExcepciones.csproj" Id="7466eb90-411b-4262-8b4a-b69bc63b7ed3" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="Practica01_Persona/Practica01_Persona.csproj" />
+    <Project Path="Practica02_Empleado/Practica02_Empleado.csproj" />
+    <Project Path="Practica03_HerenciaVehiculos/Practica03_HerenciaVehiculos.csproj" />
+    <Project Path="Practica04_EncapsulacionAutomovil/Practica04_EncapsulacionAutomovil.csproj" />
+    <Project Path="Practica05_InterfacesVehiculos/Practica05_InterfacesVehiculos.csproj" />
+    <Project Path="Practica06_SobrecargaConstructoresYMetodos/Practica06_SobrecargaConstructoresYMetodos.csproj" />
+    <Project Path="Practica07_ClasesAbstractasEInterfaces/Practica07_ClasesAbstractasEInterfaces.csproj" />
+    <Project Path="Practica08_TiposGenericosLista/Practica08_TiposGenericosLista.csproj" Id="6c912e19-3d11-4342-8119-d7b17bc9af07" />
+    <Project Path="Practica09_ManejoExcepciones/Practica09_ManejoExcepciones.csproj" Id="7466eb90-411b-4262-8b4a-b69bc63b7ed3" />
+    <Project Path="Practica10_PatronSingleton/Practica10_PatronSingleton.csproj" Id="3293252c-7e0f-45d6-a7be-f47c97d5d4a4" />
+  </Folder>
 </Solution>
