@@ -7,4 +7,5 @@
   <Project Path="Practica06_SobrecargaConstructoresYMetodos/Practica06_SobrecargaConstructoresYMetodos.csproj" />
   <Project Path="Practica07_ClasesAbstractasEInterfaces/Practica07_ClasesAbstractasEInterfaces.csproj" />
   <Project Path="Practica08_TiposGenericosLista/Practica08_TiposGenericosLista.csproj" Id="6c912e19-3d11-4342-8119-d7b17bc9af07" />
+  <Project Path="Practica09_ManejoExcepciones/Practica09_ManejoExcepciones.csproj" Id="7466eb90-411b-4262-8b4a-b69bc63b7ed3" />
 </Solution>
