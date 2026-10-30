@@ -45,10 +45,6 @@ PracticasPOOCSharp/
 ├── README.md
 ├── .gitignore
 │
-├── docs/
-│   ├── Notas-Introduccion-POO.md
-│   └── Notas-SOLID-DRY-KISS.md
-│
 └── src/
     │
     ├── Practica01_Persona/
