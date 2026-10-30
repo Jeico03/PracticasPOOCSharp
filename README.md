@@ -154,10 +154,6 @@ dotnet run
 
 Por ejemplo, para ejecutar una práctica desde su carpeta correspondiente, utiliza el comando anterior dentro del directorio que contiene el archivo `.csproj` de esa práctica.
 
-## 📖 Documentación
-
-La carpeta `docs/` contiene apuntes y notas de estudio sobre los conceptos teóricos de la ruta de aprendizaje.
-
 ## 📌 Alcance del repositorio
 
 Este repositorio está dedicado exclusivamente a las prácticas individuales de Programación Orientada a Objetos.
