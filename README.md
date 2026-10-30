@@ -176,4 +176,4 @@ Proyecto personal de aprendizaje orientado a reforzar los fundamentos de C# y de
 
 **Lenguaje:** C#  
 **Tipo de aplicación:** Consola  
-**Estado:** En desarrollo
+**Estado:** Completado
