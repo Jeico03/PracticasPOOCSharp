@@ -14,4 +14,5 @@
     <Project Path="Practica09_ManejoExcepciones/Practica09_ManejoExcepciones.csproj" Id="7466eb90-411b-4262-8b4a-b69bc63b7ed3" />
     <Project Path="Practica10_PatronSingleton/Practica10_PatronSingleton.csproj" Id="3293252c-7e0f-45d6-a7be-f47c97d5d4a4" />
   </Folder>
+  <Project Path="Practica11_PrincipiosSOLID/Practica11_PrincipiosSOLID.csproj" Id="70f96793-f7b3-46a3-8193-f47e4663e231" />
 </Solution>
